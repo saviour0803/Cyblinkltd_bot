@@ -6,9 +6,9 @@ from datetime import datetime
 
 # Load from environment variables
 BOT_TOKEN = os.environ 8214837266:AAHLVEX6j0l6-zuiKWM4GA1ker-Ery4jd5w
-VERIFICATION_API_URL = os.environ https://api.ninslip.com
+VERIFICATION_API_URL = os.environ https://api.ninslip.com/nin
 API_KEY = os.environ b59bb13b7d445b79ad1bfd336c55d4ba507e47f5db8e506be46ef9b14c1ca3e7
-CHANNEL_ID = os.environ 1002771187567
+CHANNEL_ID = os.environ -1002771187567
 
 import os
 bot = telebot.TeleBot(BOT_TOKEN)
